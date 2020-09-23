@@ -1,0 +1,40 @@
+header {
+    overflow-wrap: break-word;
+    font-family: "Consolas", monospace;
+    color: greenyellow;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+p {
+    overflow-wrap: break-word;
+    font-family: "Consolas", monospace;
+    color: greenyellow;
+}
+
+button {
+    font-family: "Consolas", monospace;
+    background-color: #ba0041;
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 15px 32px;
+    margin: 0 auto;
+    display: block;
+}
+
+button:hover {
+    background-color: red;
+}
+
+body {
+    background-color: black;
+    margin: 20px;
+}
+
+.title {
+    font-size: 35px;
+}
